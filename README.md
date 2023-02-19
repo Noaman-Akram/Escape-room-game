@@ -2,7 +2,7 @@
 
 ### Desktop game using C# and unity 
 <br>
-<img src="https://github.com/Noaman-Akram/Escape-room-game/blob/master/Screenshots/Elf_01__IDLE_005.png?raw=true" width = 100%/>
+<img src="https://github.com/Noaman-Akram/Escape-room-game/blob/master/Screenshots/Elf_01__IDLE_005.png?raw=true" width = 70%/>
 
 ---
 ###  To play the game
